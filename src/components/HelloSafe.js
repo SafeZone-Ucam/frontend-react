@@ -1,3 +1,4 @@
+/*
 import MyButton from "./MyButton"
 
 const servidor = "Webpack rodando com sucesso!"
